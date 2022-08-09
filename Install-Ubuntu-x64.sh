@@ -1,6 +1,6 @@
 #!/bin/bash
-HostName="https://venomcompany.com"
-Organization="e1dc8d8f-44e5-4420-a77d-2a05e6134efc"
+HostName="https://venomcompany.in"
+Organization="dcf80395-9889-45da-9ab7-60fffe33d6d7"
 GUID=$(cat /proc/sys/kernel/random/uuid)
 UpdatePackagePath=""
 
